@@ -1,0 +1,13 @@
+{
+  "name": "WatermarkApp",
+  "version": "1",
+  "description": "App adding watermarks to images",
+  "main": "index.js",
+  "repository": "https://github.com/dzikdrums/26.2-WatermarkApp.git",
+  "author": "Maciej Dzik",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
